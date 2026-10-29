@@ -4,4 +4,6 @@ Aplicativo de transporte particular.
 ## contexto
 Aplicativo usado para chamar um transporte visando a locomoção desejada. 
 
--cadastrar cliente
+- cadastrar cliente
+- cadastrar corrida
+- relatório mensal de corridas
